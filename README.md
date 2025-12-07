@@ -1,73 +1,122 @@
-# Welcome to your Lovable project
+🕒 Timegenious — The Future of Time Tracking & Intelligent Daily Insights:
+----------------------------------------------------------------------------
+    
 
-## Project info
+**Timegenious is a modern, AI-enhanced Time Tracking and Analytics Web Application that helps users understand where their 24 hours go.
+It combines beautiful UI, smooth animations, smart insights, and clean architecture — built with React + TypeScript + Vite + Tailwind + Firebase.
+The app allows users to log activities, visualize daily progress, and generate analytics with elegant charts and summaries.**
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
-## How can I edit this code?
+🚀 Live Demo:
+-------------
+🔗  https://sani816.github.io/Time_Tracking_App/
 
-There are several ways of editing your application.
+🎥 Video Walkthrough (2–5 minutes):
+--------------------------------------
+📺 https://your-demo-video-link.com
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+🛠️ Tech Stack:
+------------------
 
-Changes made via Lovable will be committed automatically to this repo.
+Frontend:
+-------
 
-**Use your preferred IDE**
+**1.React + TypeScript**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+**2.Vite**
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+**3.TailwindCSS**
 
-Follow these steps:
+**4.Chart.js**
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Backend:
+------
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+**1.Firebase Authentication**
 
-# Step 3: Install the necessary dependencies.
-npm i
+**2.Firebase Firestore**
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Other Tools:
+---------------
 
-**Edit a file directly in GitHub**
+**1.AI (ChatGPT)**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+**2.Mocha**
 
-**Use GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+⭐ Features:
+-------------
 
-This project is built with:
+🔐 Authentication:
+------------------
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
-## How can I deploy this project?
+**a.Secure login system**
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+**b.Protect routes using ProtectedRoute.tsx**
 
-## Can I connect a custom domain to my Lovable project?
+📅 Date-Based Activity Logging:
+--------------------------------
 
-Yes, you can!
+**a.Clean date selector**
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+**b.Add multiple activities per day**
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+**c.Category + duration in minutes**
+
+**d.Real-time validation (Cannot exceed 1440 minutes)**
+
+**e.Remaining time shown in purple highlight**
+
+**f.Edit / Delete activity options**
+
+***g.Elegant empty state:***
+
+**"No activities yet — Start tracking your time by adding your first activity above"**
+
+📊 Advanced Analytics:
+------------------------
+
+**A. chart for category breakdown**
+
+**B.Daily trend chart**
+
+**C.Progress card with glowing icon**
+
+**D.Total time summary**
+
+**E.Intelligent insights (via hooks)**
+
+**F.Auto-updating dashboard for selected date**
+
+
+🌙 Beautiful Modern UI:
+----------------------
+
+**1.Gradient backgrounds**
+
+**2.Glowing icons**
+
+**3.Smooth card shadows**
+
+**4.Soft animation effects**
+
+**5.Responsive on all devices**
+
+**6.Theme context for global consistency**
+
+
+💡 Future Improvements:
+--------------------------
+
+ --> **Weekly & Monthly analytics**
+
+--> **AI-generated productivity insights**
+
+--> **Export to PDF/CSV**
+
+--> **Sync across devices**
+
+--> **Mobile app version (React Native)**
